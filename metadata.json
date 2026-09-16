@@ -1,0 +1,6 @@
+{
+  "name": "GSTR2B Match",
+  "description": "Indian GST reconciliation and Tally extraction tool for GSTR-2B, GSTR-1, and GSTR-3B.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
